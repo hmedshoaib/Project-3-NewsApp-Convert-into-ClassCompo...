@@ -1,0 +1,41 @@
+:root {
+    --docsearch-primary-color: var(--bd-violet);
+    --docsearch-logo-color: var(--bd-violet);
+}
+
+.bg,
+nav-link {
+    background-color: #691eff;
+    color: white !important;
+}
+
+.btn:hover {
+    background-color: white;
+    color: black !important;
+}
+
+.bt2:hover {
+    background-color: #4909c9;
+    color: rgb(253, 251, 251) !important;
+}
+
+.card-title {
+    height: 100px;
+}
+
+
+.card-text {
+    font-size: 15px;
+    height: 120px;
+}
+
+
+.card-title2 {
+    background-color: #691eff;
+    color: white !important;
+    font-size: 10px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+}
+
